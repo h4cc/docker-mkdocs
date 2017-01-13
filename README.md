@@ -7,3 +7,4 @@ Docker image for mkdocs with extensions and themes using alpine linux base image
 * Workingdir: `/mkdocs`.
 
 Have fun :)
+
